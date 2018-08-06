@@ -1,6 +1,5 @@
-
+/.vscode
 obj/
 bin/
 actual/
-expected/*
-/Users/moorel/Desktop/Projects/C#/O2/Reporting/obj
+expected/
