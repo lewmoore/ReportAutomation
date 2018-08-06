@@ -12,8 +12,7 @@ namespace Reporting {
       [Test]
       public void sheetsAreEqual(){
         Program report = new Program();
-        Console.WriteLine(report.ExpectedReport());
-
+        
         Assert.AreEqual(report.ExpectedReport(), report.ActualReport());
     }
   }

@@ -2,6 +2,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GenerateProgramFile>false</GenerateProgramFile>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="NUnit" Version="3.10.1"/>
@@ -9,5 +10,6 @@
     <PackageReference Include="EPPlus.Core" Version="1.5.4"/>
     <PackageReference Include="CoreExtensions.FileInfo" Version="1.0.0"/>
     <PackageReference Include="CoreExtensions.StringBuilder" Version="1.0.0"/>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.0.0"/>
   </ItemGroup>
 </Project>
