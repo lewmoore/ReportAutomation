@@ -10,7 +10,7 @@ namespace Reporting {
   [TestFixture]
   public class ReportCompareTest {
       [Test]
-      public void functionName(){
+      public void testEntireSheet(){
           
       }
   }

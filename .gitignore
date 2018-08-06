@@ -1,8 +1,5 @@
 .vscode
-/bin/*
-./obj/*
-bin/Debug/netcoreapp2.1/Reporting.dll
-bin/Debug/netcoreapp2.1/Reporting.pdb
-bin/Debug/netcoreapp2.1/Reporting.dll
-obj/Debug/netcoreapp2.1/Reporting.dll
-obj/Debug/netcoreapp2.1/Reporting.pdb
+obj/
+bin/
+actual/
+expected/
