@@ -1,0 +1,15 @@
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/bin/Debug/netcoreapp2.1/Reporting.deps.json
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/bin/Debug/netcoreapp2.1/Reporting.runtimeconfig.json
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/bin/Debug/netcoreapp2.1/Reporting.runtimeconfig.dev.json
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/bin/Debug/netcoreapp2.1/Reporting.dll
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/bin/Debug/netcoreapp2.1/Reporting.pdb
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/obj/Debug/netcoreapp2.1/Reporting.csprojAssemblyReference.cache
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/obj/Debug/netcoreapp2.1/Reporting.csproj.CoreCompileInputs.cache
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/obj/Debug/netcoreapp2.1/Reporting.AssemblyInfoInputs.cache
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/obj/Debug/netcoreapp2.1/Reporting.AssemblyInfo.cs
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/obj/Debug/netcoreapp2.1/Reporting.dll
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/obj/Debug/netcoreapp2.1/Reporting.pdb
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/moorel/Desktop/Projects/C#/O2/Reporting/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
